@@ -18,7 +18,7 @@ These need to be done on the blockchain. The parameters in terms of the numbers 
 ### Development Process 
 
 
-Ultiamtely, what is needed:
+Ultimately, what is needed:
 
 1. a webpage to do the mining (and assume hosting along with that)
 2. smart contracts to handle the minting and rewards
@@ -27,6 +27,9 @@ Ultiamtely, what is needed:
 
 These need to be done in a very systematic way to ensure quality and most importantly security.
 
+
+
+.. writing in progress
 
 
 ---
