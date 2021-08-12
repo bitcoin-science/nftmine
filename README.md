@@ -11,9 +11,10 @@ MinersVIP is an NFT project where you use your browser to mine NFT rocks or gems
 
 This is a revitalization of this concept, it will survive and thrive this time because we have a strong community that is open to implementing this system in a responsible and ethical manner. The idea behind this is very smart, it needs to be implemented correctly though using best practices.
 
+### **Decentralized Autonomous Organizations (DAOs)**
+
 One of the keys here is responsible management for the community, listening to the community and working with them. This is new, the concept of a Decentralized Autonomous Organization (DAO), although it seems to be the evolution and if managed correctly it is the next level above traditional technology companies. 
 
-...
 
 One of the things we need to learn from the original implementation is why we all liked it so much, and then also why we really didn’t like certain parts of it.
 
