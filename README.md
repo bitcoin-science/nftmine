@@ -5,6 +5,19 @@
 Sample front-running names: **EtherMine**, **NFTMine**
 
 
+## Key Concepts
+
+1. On your browser, be able to proof-of-work (POW) mine to get an NFT
+2. Collect rewards for owning that NFT
+3. The mining algorithm needs to increase in difficulty with time, and also the amount to mine needs to increase with time
+4. Need a way to convert the original MinersVIP NFTs to these new ones (possibly can do a batch process script)
+
+These need to be done on the blockchain. The parameters in terms of the numbers and rewards need to be figured out.
+
+
+---
+
+
 ## Brief Backstory - A Fork of the MinersVIP NFT Project
 
 MinersVIP is an NFT project where you use your browser to mine NFT rocks or gems. The idea was very good, the implementation and management was essentially giving people negative feelings and they didn't like it because they invested in it and felt like it was potentially a rug-pull.
@@ -25,13 +38,3 @@ The original MinersVIP had a simplicity to it that was highly appealing, and tha
 
 
 I think we all learned from traditional companies that we actually want to work as little as possible. Let's keep that in mind with the aim of automating as most as possible and doing as little as work as possible while getting the most accomplished. We don't have a central pay, our pay right now is the value of our products, our rocks and gems. And we might not want a central pay, and just think of making the rocks very accessible, and stick with as little work as possible. If everyone pitches in a little work they find fun or enjoyable, it will add up.
-
-
-## Key Concepts
-
-1. On your browser, be able to proof-of-work (POW) mine to get an NFT
-2. Collect rewards for owning that NFT
-3. The mining algorithm needs to increase in difficulty with time, and also the amount to mine needs to increase with time
-4. Need a way to convert the original MinersVIP NFTs to these new ones (possibly can do a batch process script)
-
-These need to be done on the blockchain. The parameters in terms of the numbers and rewards need to be figured out.
