@@ -58,3 +58,4 @@ I think we all learned from traditional companies that we actually want to work 
 
 W**e will still make sure the technology is maintained and supervised over time, and remains secure. The point is that once it's built, we should aim for a point where it is complete as a technology and we no longer have to make any adjustments. That would be awesome!**
 
+(at least have the "core" technology be complete at some point, others can work further and add more if they want)
