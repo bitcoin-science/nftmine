@@ -22,7 +22,7 @@ Ultimately, what is needed:
 
 1. a webpage to do the mining (and assume hosting along with that)
 2. smart contracts to handle the minting and rewards
-3. a process to deploy the test the smart contracts
+3. a process to test the smart contracts
 4. a process to deploy the smart contracts
 
 These should to be done in a standardized and systematic way to ensure quality and most importantly security.
