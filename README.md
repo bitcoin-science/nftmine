@@ -5,7 +5,7 @@
 Sample front-running names: **EtherMine**, **NFTMine**
 
 
-## Abstrac Idea
+## Abstract Idea
 
 Have a "vitrual blockchain" mining economy using NFTs that you can mine using proof-of-work.
 
