@@ -15,6 +15,20 @@ Sample front-running names: **EtherMine**, **NFTMine**
 These need to be done on the blockchain. The parameters in terms of the numbers and rewards need to be figured out.
 
 
+### Development Process 
+
+
+Ultiamtely, what is needed:
+
+1. a webpage to do the mining (and assume hosting along with that)
+2. smart contracts to handle the minting and rewards
+3. a process to deploy the test the smart contracts
+4. a process to deploy the smart contracts
+
+These need to be done in a very systematic way to ensure quality and most importantly security.
+
+
+
 ---
 
 
