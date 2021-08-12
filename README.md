@@ -59,8 +59,6 @@ This is a technology of scale, and complexity is very, very costly at scale. We 
 The original MinersVIP had a simplicity to it that was highly appealing, and that was also its fault. That and the fact that it was a decentralized technology that was not adhering to its members requests. This being a next level technology company decentralized yes, although as a company customer service is still key. They aren’t really our customers, although they are analogous to our customers, the people who mint, trade, and hold the NFTs. We are also our own "customers" in that sense because we have and use the NFTs ourselves.
 
 
-**About Working:** I think we all learned from traditional companies that we actually want to work as little as possible. Let's keep that in mind with the aim of automating as most as possible and doing as little as work as possible while getting the most accomplished. We don't have a central pay, our pay right now is the value of our products, our rocks and gems. And we might not want a central pay, and just think of making the rocks very accessible, and stick with as little work as possible. If everyone pitches in a little work they find fun or enjoyable, it will add up.
-
 **We will still make sure the technology is maintained and supervised over time, and remains secure. The point is that once it's built, we should aim for a point where it is complete as a technology and we no longer have to make any adjustments (aside from required fixes to maintain the intended functionality). That would be awesome!**
 
 (at least have the "core" technology be complete at some point, others can work further and add more if they want)
