@@ -5,6 +5,11 @@
 Sample front-running names: **EtherMine**, **NFTMine**
 
 
+## Abstrac Idea
+
+Have a "vitrual blockchain" mining economy using NFTs that you can mine using proof-of-work.
+
+
 ## Key Concepts
 
 1. On your browser, be able to proof-of-work (POW) mine to get an NFT
