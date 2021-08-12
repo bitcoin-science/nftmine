@@ -56,7 +56,7 @@ One of the things we need to learn from the original implementation is why we al
 This is a technology of scale, and complexity is very, very costly at scale. We must keep this super simple, especially at first, in order to get this off the ground fast, and for it to be sustainable, and robust at scale.
 
 
-The original MinersVIP had a simplicity to it that was highly appealing. That and the fact that it was a decentralized technology that was not adhering to its members requests. This being a next level technology company, decentralized yes, although as an organization analogous to a technology company, customer service is still key. They aren’t really our customers, although they are analogous to being our customers, the people who mint, trade, and hold the NFTs. We are also our own "customers" in that sense because we have and use the NFTs ourselves.
+The original MinersVIP had a simplicity to it that was highly appealing. The flip side was the fact that it was a decentralized technology that was not adhering to its members requests. This being a next level technology company, decentralized yes, although as an organization analogous to a technology company, customer service is still key. They aren’t really our customers, although they are analogous to being our customers, the people who mint, trade, and hold the NFTs. We are also our own "customers" in that sense because we have and use the NFTs ourselves.
 
 
 **We will make sure the technology is maintained and supervised over time, and remains secure. Once it's built, we should aim for a point where it is complete as a technology and we no longer have to make any adjustments (aside from required fixes to maintain the intended functionality). That would be awesome!**
