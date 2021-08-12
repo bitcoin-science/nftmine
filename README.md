@@ -25,7 +25,7 @@ Ultimately, what is needed:
 3. a process to deploy the test the smart contracts
 4. a process to deploy the smart contracts
 
-These need to be done in a very systematic way to ensure quality and most importantly security.
+These should to be done in a standardized and systematic way to ensure quality and most importantly security.
 
 
 
