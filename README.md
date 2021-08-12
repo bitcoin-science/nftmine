@@ -34,7 +34,7 @@ These should to be done in a standardized and systematic way to ensure quality a
 
 
 
-.. writing in progress
+... writing in progress, what's next: detailed steps on how to accomplish what is required in the above list
 
 
 ---
