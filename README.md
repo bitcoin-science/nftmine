@@ -23,6 +23,9 @@ This is a technology of scale, and complexity is very, very costly at scale. We 
 The original MinersVIP had a simplicity to it that was highly appealing, and that was also its fault. That and the fact that it was a decentralized technology that was not adhering to its members requests. This is  being a next level technology company decentralized yes, customer service is key. They aren’t really our customers, although they are analogous to our customers, the people who mint, trade, and hold the NFTs.
 
 
+I think we all learned from traditional companies that we actually want to work as little as possible. Let's keep that in mind with the aim of automating as most as possible and doing as little as work as possible while getting the most accomplished. We don't have a central pay, our pay right now is the value of our products, our rocks and gems. And we might not want a central pay, and just think of making the rocks very accessible, and stick with as little work as possible. If everyone pitches in a little work they find fun or enjoyable, it will add up.
+
+
 ## Key Concepts
 
 
