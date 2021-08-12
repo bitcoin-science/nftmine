@@ -42,7 +42,7 @@ These should to be done in a standardized and systematic way to ensure quality a
 
 ## Brief Backstory - A Fork of the MinersVIP NFT Project
 
-MinersVIP is an NFT project where you use your browser to mine NFT rocks or gems. The idea was very good, the implementation and management was essentially giving people negative feelings and they didn't like it because they invested in it and felt like it was potentially a rug-pull.
+MinersVIP is an NFT project where you use your browser to mine NFT rocks or gems. The idea was very good, the implementation and management was essentially giving people negative feelings and they didn't like it because they invested in it and felt like it was potentially a rug-pull. If not a rug-pull, the community was not happy with how the project was being maintained, and there is no reason for that given the already-sustaintial Ether investment.
 
 This is a revitalization of this concept, it will survive and thrive this time because we have a strong community that is open to implementing this system in a responsible and ethical manner. The idea behind this is very smart, it needs to be implemented correctly though using best practices.
 
