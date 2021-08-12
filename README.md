@@ -12,7 +12,7 @@ Have a "virtual blockchain" mining economy using NFTs that you can mine using pr
 
 ## Key Concepts
 
-1. On your browser, be able to proof-of-work (POW) mine to get an NFT
+1. On your browser, be able to proof-of-work (POW) mine to get an NFT (theoretically, in the future the mining could be done with a specialized machine like a Bitcoin or Dogecoin miner)
 2. Collect rewards for owning that NFT
 3. The mining algorithm needs to increase in difficulty with time, and also the amount to mine needs to increase with time
 4. Need a way to convert the original MinersVIP NFTs to these new ones (possibly can do a batch process script)
