@@ -61,6 +61,6 @@ The original MinersVIP had a simplicity to it that was highly appealing, and tha
 
 I think we all learned from traditional companies that we actually want to work as little as possible. Let's keep that in mind with the aim of automating as most as possible and doing as little as work as possible while getting the most accomplished. We don't have a central pay, our pay right now is the value of our products, our rocks and gems. And we might not want a central pay, and just think of making the rocks very accessible, and stick with as little work as possible. If everyone pitches in a little work they find fun or enjoyable, it will add up.
 
-W**e will still make sure the technology is maintained and supervised over time, and remains secure. The point is that once it's built, we should aim for a point where it is complete as a technology and we no longer have to make any adjustments. That would be awesome!**
+W**e will still make sure the technology is maintained and supervised over time, and remains secure. The point is that once it's built, we should aim for a point where it is complete as a technology and we no longer have to make any adjustments (aside from required fixes to maintain the intended fucntionality, if any). That would be awesome!**
 
 (at least have the "core" technology be complete at some point, others can work further and add more if they want)
