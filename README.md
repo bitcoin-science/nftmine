@@ -33,9 +33,17 @@ Ultimately, what is needed:
 These should to be done in a standardized and systematic way to ensure quality and most importantly security.
 
 
+### Tech Tracks
 
-... writing in progress, what's next: detailed steps on how to accomplish what's required in the above list
+Here are the concrete overview-paths for coders of this project to take in order to work on this code base in a streamlined way where progress can be easily monitored:
 
+Path 1: Build the ERC721 smart contract and minting systej
+Path 2: Create a standardized smart contract deployment system
+Path 3: Create a standardized smart contract testing system
+Path 4: Build the website
+
+
+These are very general and the specific tasks for each track should be laid out once began so progress can be monitored
 
 ---
 
