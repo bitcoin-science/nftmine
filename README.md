@@ -1,4 +1,4 @@
-# NFTMint 
+# NFTMine
 
 Discord: https://discord.com/channels/875141035313995826
 
