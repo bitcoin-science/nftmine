@@ -1,8 +1,6 @@
-# MinersVIPDoge 
+# NFTMint 
 
-(Development Code Name, please recommend names on the Discord channel https://discord.com/channels/875141035313995826/875201872280031234)
-
-Sample front-running names: **EtherMine**, **NFTMine**
+Discord: https://discord.com/channels/875141035313995826
 
 
 ## Abstract Idea
